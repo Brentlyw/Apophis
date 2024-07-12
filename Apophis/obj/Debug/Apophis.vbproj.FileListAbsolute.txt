@@ -1,0 +1,10 @@
+C:\Users\TRR\source\repos\Apophis\Apophis\obj\Debug\Apophis.vbproj.AssemblyReference.cache
+C:\Users\TRR\source\repos\Apophis\Apophis\obj\Debug\Apophis.Resources.resources
+C:\Users\TRR\source\repos\Apophis\Apophis\obj\Debug\Apophis.vbproj.GenerateResource.cache
+C:\Users\TRR\source\repos\Apophis\Apophis\obj\Debug\Apophis.vbproj.CoreCompileInputs.cache
+C:\Users\TRR\source\repos\Apophis\Apophis\bin\Debug\Apophis.exe
+C:\Users\TRR\source\repos\Apophis\Apophis\bin\Debug\Apophis.pdb
+C:\Users\TRR\source\repos\Apophis\Apophis\bin\Debug\Apophis.xml
+C:\Users\TRR\source\repos\Apophis\Apophis\obj\Debug\Apophis.exe
+C:\Users\TRR\source\repos\Apophis\Apophis\obj\Debug\Apophis.xml
+C:\Users\TRR\source\repos\Apophis\Apophis\obj\Debug\Apophis.pdb
